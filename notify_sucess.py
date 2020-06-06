@@ -3,7 +3,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 host_address = "skvadalia2014@gmail.com"
 host_pass = "shyam1999"
-guest_address = "24sahilverma@gmail.com"
+guest_address = "skvadalia2014@gmail.com"
 subject = "Target Accuracy achieved by model"
 content = '''Hello, 
 				The model has successfully achieved it's target accuracy.
